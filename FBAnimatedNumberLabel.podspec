@@ -25,8 +25,8 @@ supports animating a "ticking" number in a label, as well as a pulse
 animation for the label.
                    DESC
 
-  s.homepage     = "http://github.com/FiveBox/FBAnimatedNumberLabel"
-  s.screenshots  = "http://github.com/FiveBox/FBAnimatedNumberLabel/screenshot.gif"
+  s.homepage     = "https://github.com/FiveBox/FBAnimatedNumberLabel"
+  s.screenshots  = "https://github.com/FiveBox/FBAnimatedNumberLabel/screenshot.gif"
 
 
   # ―――  Spec License  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -71,7 +71,7 @@ animation for the label.
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "http://github.com/FiveBox/FBAnimatedNumberLabel.git", :tag => "0.0.1" }
+  s.source       = { :git => "https://github.com/FiveBox/FBAnimatedNumberLabel.git", :tag => "0.0.1" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
