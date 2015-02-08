@@ -26,7 +26,7 @@ animation for the label.
                    DESC
 
   s.homepage     = "https://github.com/FiveBox/FBAnimatedNumberLabel"
-  s.screenshots  = "https://github.com/FiveBox/FBAnimatedNumberLabel/screenshot.gif"
+  s.screenshots  = "https://github.com/FiveBox/FBAnimatedNumberLabel/master/screenshot.gif"
 
 
   # ―――  Spec License  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #

@@ -454,6 +454,7 @@
 				34A7CD701A867D70005CA9FC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		34A7CD711A867D70005CA9FC /* Build configuration list for PBXNativeTarget "FBAnimatedNumberLabelTests" */ = {
 			isa = XCConfigurationList;
@@ -462,6 +463,7 @@
 				34A7CD731A867D70005CA9FC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
